@@ -10,6 +10,6 @@ st.write('Hello, *World!* :umbrella:')
 
 st.write(1234)
 st.write(pd.DataFrame({
-    'First_Name': [Prerna,Nischay,Abhishek],
-    'Second_Name': [Malhan,Malhan,Malhan],
+    'First_Name': ['Prerna','Nischay','Abhishek'],
+    'Second_Name': ['Malhan','Malhan','Malhan'],
 }))
